@@ -3,7 +3,7 @@
 ### A software engineer
 
 
-- 🔭 I'm currently working on **LLM, RAG, Nuxt, Computer Vision**
+- 🔭 I'm currently working on **LLMs, RAG, Nuxt, Computer Vision**
 
 - 🌱 I'm currently learning **AI/ML, MLOps, DevOps, Go, C**
 
@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://irfannaqieb.pages.dev](https://irfannaqieb.pages.dev)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1SvMHK2xjyDrU3Qyk5m-sG2GmoPeaeC5Z/view?usp=sharing](https://drive.google.com/file/d/1SvMHK2xjyDrU3Qyk5m-sG2GmoPeaeC5Z/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
