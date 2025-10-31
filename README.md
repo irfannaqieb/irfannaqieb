@@ -1,12 +1,11 @@
 # Hi 👋, I'm pan
 
-### A passionate Python developer
+### A software engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfannaqieb&label=Profile views&color=0e75b6&style=flat" alt="irfannaqieb" /> </p>
 
-- 🔭 I'm currently working on **LLM, RAG, Nuxt projects**
+- 🔭 I'm currently working on **LLM, RAG, Nuxt, Computer Vision**
 
-- 🌱 I'm currently learning **AI/ML, MLOps, DevOps**
+- 🌱 I'm currently learning **AI/ML, MLOps, DevOps, Go, C**
 
 - 📫 How to reach me **irfannaqieb@gmail.com**
 
