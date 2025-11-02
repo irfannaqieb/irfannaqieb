@@ -3,7 +3,7 @@
 ### A software engineer
 
 
-- 🔭 I'm currently working on **LLMs, RAG, Nuxt, Computer Vision**
+- 🔭 I'm currently working on **LLMs, RAG, Nuxt, Computer Vision, end-to-end ML pipelines**
 
 - 🌱 I'm currently learning **AI/ML, MLOps, DevOps, Go, C**
 
