@@ -9,7 +9,5 @@
 
 - 📫 How to reach me: **irfannaqieb@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://irfannaqieb.pages.dev](https://irfannaqieb.pages.dev)**
-
 
 
